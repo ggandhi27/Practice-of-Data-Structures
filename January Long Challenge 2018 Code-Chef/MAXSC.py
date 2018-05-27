@@ -28,3 +28,4 @@ while t>0:
     if f==1:
         print s
     t-=1
+
